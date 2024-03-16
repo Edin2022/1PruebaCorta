@@ -1,0 +1,4 @@
+C:/Users/rexyr/OneDrive/Escritorio/1PruebaCorta/cmake-build-debug/CMakeFiles/OrdenaciondeNumeros.dir
+C:/Users/rexyr/OneDrive/Escritorio/1PruebaCorta/cmake-build-debug/CMakeFiles/BusquedadeElementos.dir
+C:/Users/rexyr/OneDrive/Escritorio/1PruebaCorta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rexyr/OneDrive/Escritorio/1PruebaCorta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

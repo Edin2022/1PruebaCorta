@@ -1,3 +1,9 @@
 # ninja log v5
 5	596	7323078305872733	CMakeFiles/OrdenaciondeNumeros.dir/OrdenaciondeNumeros.cpp.obj	b702f6d9574a7713
 597	724	7323078307104935	OrdenaciondeNumeros.exe	84bd829305107ad4
+0	449	7323100605056518	CMakeFiles/BusquedadeElementos.dir/BusquedadeElementos.cpp.obj	9197e542dd666914
+450	575	7323100606258861	BusquedadeElementos.exe	a23aa24ae3360412
+3	423	7323100782073024	CMakeFiles/BusquedadeElementos.dir/BusquedadeElementos.cpp.obj	9197e542dd666914
+424	538	7323100783140904	BusquedadeElementos.exe	a23aa24ae3360412
+9	544	7323103482054403	CMakeFiles/BusquedadeElementos.dir/BusquedadeElementos.cpp.obj	9197e542dd666914
+545	659	7323103483163723	BusquedadeElementos.exe	a23aa24ae3360412
